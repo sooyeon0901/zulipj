@@ -1,0 +1,15 @@
+# Created at 2022-12-19T15:30:33.480
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-12-19T15:30:33.480
+WARNING: Illegal reflective access by com.google.gson.internal.reflect.ReflectionHelper (file:/home/shpark/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar) to field java.time.Instant.seconds
+
+# Created at 2022-12-19T15:30:33.481
+WARNING: Please consider reporting this to the maintainers of com.google.gson.internal.reflect.ReflectionHelper
+
+# Created at 2022-12-19T15:30:33.481
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-12-19T15:30:33.481
+WARNING: All illegal access operations will be denied in a future release
+

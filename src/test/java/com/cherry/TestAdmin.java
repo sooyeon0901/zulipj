@@ -26,7 +26,7 @@ public class TestAdmin {
 
   // admin 세팅
   @Test
-  public ZulipAdminUtils setAdmin() throws MalformedURLException, ZulipClientException {
+  public void setAdmin() throws MalformedURLException, ZulipClientException {
       URL url;
       try {
           url = new URL(SITE_URL);
@@ -40,7 +40,7 @@ public class TestAdmin {
       ZulipHttpClient adminClient = new ZulipCommonsHttpClient(adminConfig);
       ZulipAdminUtils adminUtils = new ZulipAdminUtils(adminConfig);
 
-      return adminUtils;
+      //return adminUtils;
   }
 
 }
